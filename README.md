@@ -15,7 +15,7 @@
 
 ## 기술 및 구조도
 
-![structure](img/145776276-aab44c48-507a-47f9-bbf4-7d5247f467cb.png)
+![03_erd](https://user-images.githubusercontent.com/82884242/145827816-f6ea83c1-b2d8-465c-b0b4-54f9c6b7d6be.png)
 
 ##### Front-End
 
