@@ -109,3 +109,6 @@
 
 ![15_signup](https://user-images.githubusercontent.com/82884242/145827463-a820ca44-fe4b-4191-8627-0fa4c11d9a1f.png)
 
+![16_authorization](https://user-images.githubusercontent.com/82884242/145830191-a9c149a5-4190-4c8f-99cc-335d04eeefc5.png)
+
+
