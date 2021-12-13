@@ -31,7 +31,7 @@
 
 ## ERD
 
-![diagram](img/145798318-817e6b26-50a0-45ac-adb6-5f375dda02bb.png)
+![03_erd](https://user-images.githubusercontent.com/82884242/145827076-97eb5c9a-740d-4b7f-b469-c382b425a7e6.png)
 
 
 
@@ -70,43 +70,42 @@
 
 ##### 메인 페이지
 
-![page_main](img/145775817-b0cd50fb-e694-49a7-a2dd-c02a68920839.jpg)
+![01_main](https://user-images.githubusercontent.com/82884242/145827127-3d98e653-62e6-413d-86d2-e5a07ec58aa1.jpg)
 
-![main-2](img/145816892-1707f0d2-9851-4e29-b4ba-0c8d0faaf470.png)
+![05_main-2](https://user-images.githubusercontent.com/82884242/145827156-9d5d0191-7cbb-4026-b364-518ddb982f1c.png)
 
-![image-20211213220019747](img/image-20211213220019747.png)
+![06_main-3](https://user-images.githubusercontent.com/82884242/145827199-75807bad-7ea1-4645-a7be-1819e1aef69a.png)
 
-![main-4](img/145817130-ed0544de-239d-48d0-b6f5-7d4c54ef43be.png)
+![07_main-4](https://user-images.githubusercontent.com/82884242/145827237-b399a1fa-8525-461c-9356-a090df6ce943.png)
 
-![main-5](img/145817244-ba633e22-5145-47cb-b6ad-aa03ceba34a6.png)
+![08_main-5](https://user-images.githubusercontent.com/82884242/145827273-42758506-f355-4781-8f2c-fe39e82842a6.png)
 
 ---
 
 ##### 공지사항
 
-![notice](img/145825011-e65e49a9-5871-43ac-8e9c-f28a87a69a63.png)
+![09_notice-1](https://user-images.githubusercontent.com/82884242/145827301-42450a54-f04f-40cc-a32e-2f25a4a75f19.png)
 
-![notice-2](img/145825054-87a9e5f0-8453-4801-815e-eb6c26578eed.png)
+![10_notice-2](https://user-images.githubusercontent.com/82884242/145827339-9b11307b-ab82-412c-84a1-405e3813e656.png)
 
 ---
 
 ##### 커뮤니티
 
-**![community-1](img/145825122-42f7753f-290a-4540-96a6-1671e8086371.png)
+![11_community-1](https://user-images.githubusercontent.com/82884242/145827353-616b7f7f-0406-4a2d-aaa2-a7eab83d5573.png)
 
-![community-2](img/145825203-f9c458ad-d165-44b7-8a13-aef505776295.png)
+![12_community-2](https://user-images.githubusercontent.com/82884242/145827398-c2655816-3125-44f8-8d2c-bd677a1b6ad8.png)
 
 ---
 
 ##### QnA
 
-![qna](img/145825286-efd07b31-b726-4de8-8640-9a6dc4b2eb39.png)
+![13_QnA](https://user-images.githubusercontent.com/82884242/145827425-9940878a-a8e2-49ec-ad74-e268dc7852ad.png)
 
 ---
 
 ##### 로그인/회원가입, 회원정보, 비밀번호 찾기
+![14_signin](https://user-images.githubusercontent.com/82884242/145827447-aeb0032f-3f64-412b-a232-1f2e23a0d049.png)
 
-![image-20211213225926200](img/image-20211213225926200.png)
-
-![image-20211213225912763](img/image-20211213225912763.png)
+![15_signup](https://user-images.githubusercontent.com/82884242/145827463-a820ca44-fe4b-4191-8627-0fa4c11d9a1f.png)
 
