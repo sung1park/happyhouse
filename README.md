@@ -111,4 +111,14 @@
 
 ![16_authorization](https://user-images.githubusercontent.com/82884242/145830191-a9c149a5-4190-4c8f-99cc-335d04eeefc5.png)
 
+## 시연 가이드
+
+**Project setup**
+
+```
+npm install
+npm run serve
+```
+
+- https://localhost:8080에서 실행
 
