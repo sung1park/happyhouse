@@ -29,7 +29,7 @@
 
 
 
-## ERD
+## Database Schema Diagram
 
 ![03_erd](https://user-images.githubusercontent.com/82884242/145827076-97eb5c9a-740d-4b7f-b469-c382b425a7e6.png)
 
