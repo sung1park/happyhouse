@@ -68,7 +68,7 @@
 
 ## 주요 화면
 
-##### 메인 페이지
+#### 메인 페이지
 
 ![01_main](https://user-images.githubusercontent.com/82884242/145827127-3d98e653-62e6-413d-86d2-e5a07ec58aa1.jpg)
 
@@ -82,7 +82,7 @@
 
 ---
 
-##### 공지사항
+#### 공지사항
 
 ![09_notice-1](https://user-images.githubusercontent.com/82884242/145827301-42450a54-f04f-40cc-a32e-2f25a4a75f19.png)
 
@@ -90,7 +90,7 @@
 
 ---
 
-##### 커뮤니티
+#### 커뮤니티
 
 ![11_community-1](https://user-images.githubusercontent.com/82884242/145827353-616b7f7f-0406-4a2d-aaa2-a7eab83d5573.png)
 
@@ -98,13 +98,13 @@
 
 ---
 
-##### QnA
+#### QnA
 
 ![13_QnA](https://user-images.githubusercontent.com/82884242/145827425-9940878a-a8e2-49ec-ad74-e268dc7852ad.png)
 
 ---
 
-##### 로그인/회원가입, 회원정보, 비밀번호 찾기
+#### 로그인/회원가입, 회원정보, 비밀번호 찾기
 ![14_signin](https://user-images.githubusercontent.com/82884242/145827447-aeb0032f-3f64-412b-a232-1f2e23a0d049.png)
 
 ![15_signup](https://user-images.githubusercontent.com/82884242/145827463-a820ca44-fe4b-4191-8627-0fa4c11d9a1f.png)
